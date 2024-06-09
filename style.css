@@ -1,0 +1,68 @@
+.text1 {
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+
+  text-transform: uppercase;
+  font-size: 34px;
+}
+
+.p1 {
+  text-align: center;
+}
+#box1 {
+  width: 40%;
+  margin-top: 100px;
+  margin-left: 2%;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+.img1 {
+  border: 5px solid white;
+  width: 100%;
+}
+
+#poster2 {
+  width: 25%;
+  margin-left: 62%;
+  margin-top: -35.5%;
+  color: white;
+}
+
+.img2 {
+  width: 100%;
+  border: 5px solid white;
+}
+
+.text2 {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffbf00;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin-top: 3px;
+}
+
+.p2 {
+  text-align: center;
+  margin-top: -12px;
+}
+
+.judulBawah {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 40pt;
+  text-transform: uppercase;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
